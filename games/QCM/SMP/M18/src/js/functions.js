@@ -35,6 +35,8 @@ var thisDeviceType = getDeviceType();
 var isDesktop = (thisDeviceType == "desktop");
 var isMobile  = (thisDeviceType == "mobile");
 var isTablet  = (thisDeviceType == "tablet");
+/*
 if( !isDesktop ){
-	document.write('<button style="position:absolute;width:100%;height:100%;background-color:#fff;font-size:7vw;">mobile version not supported yet!</button>');
+	document.write('<button style="position:absolute;width:100%;height:100%;background-color:#fff;font-size:7vw;">mobile version not suppoerted yet!</button>');
 };
+*/
